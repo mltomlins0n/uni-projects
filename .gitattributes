@@ -1,1 +1,9 @@
 *.uasset filter=lfs diff=lfs merge=lfs -text
+
+# Team Project
+firstpersonexamplemap_builtdata.uasset filter=lfs diff=lfs merge=lfs -text
+t_alpinepatch001_D_R.uasset filter=lfs diff=lfs merge=lfs -text
+t_alpinepatch001_N.uasset filter=lfs diff=lfs merge=lfs -text
+t_gdc_rockface003_D_R.uasset filter=lfs diff=lfs merge=lfs -text
+t_gdc_rockface003_N.uasset filter=lfs diff=lfs merge=lfs -text
+
